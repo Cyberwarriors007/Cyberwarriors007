@@ -75,9 +75,8 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/FidaUk-Marwat/"><img src="https://img.shields.io/badge/-FidaUk%20Marwat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:fidaukmarwat@gmail.com"><img src="https://img.shields.io/badge/-fidaukmarwat@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/fidaukmarwat/"><img src="https://img.shields.io/badge/-@fidaukmarwat-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:cyberwarriors471@gmail.com"><img src="https://img.shields.io/badge/-cyberwarriors471@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/kust_officials/"><img src="https://img.shields.io/badge/-@kust_officials-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
  </p>
  
@@ -87,18 +86,18 @@
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
 |-------------|-------------------|---|---| ----|
-| [**Github Repository**](https://github.com/itxfida/itxfida) | [![GitHub issues](https://img.shields.io/github/issues/itxfida/itxfida?color=green&logo=github&style=flat)](https://github.com/itxfida/itxfida/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/itxfida/itxfida?style=flat&logo=github)](https://github.com/itxfida/itxfida/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/itxfida/itxfida?style=flat&color=critical&logo=github)](https://github.com/saadfareed/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/itxfida/itxfida?color=blue&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/commits/) |
-| [**Github Profile**](https://github.com/itxfida/itxfida) | [![GitHub issues](https://img.shields.io/github/issues/itxfida/itxfida?color=green&logo=github&style=flat)](https://github.com/itxfida/itxfida/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr/itxfida/itxfida?style=flat&logo=github)](https://github.com/itxfida/itxfida/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/itxfida/itxfida?style=flat&color=critical&logo=github)](https://github.com/itxfida/itxfida/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/itxfida/itxfida?color=blue&logo=github&style=flat)](https://github.com/itxfida/itxfida/commits/) |
+| [**Github Repository**](https://github.com/cyberwarriors007/cyberwarriors007) | [![GitHub issues](https://img.shields.io/github/issues/cyberwarriors007/cyberwarriors007?color=green&logo=github&style=flat)](https://github.com/cyberwarriors007/cyberwarriors007/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/cyberwarriors007/cyberwarriors007?style=flat&logo=github)](https://github.com/cyberwarriors007/cyberwarriors007/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/cyberwarriors007/cyberwarriors007?style=flat&color=critical&logo=github)](https://github.com/cyberwarriors007/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/cyberwarriors007/cyberwarriors007?color=blue&logo=github&style=flat)](https://github.com/cyberwarriors007/transcript_summary/commits/) |
+| [**Github Profile**](https://github.com/cyberwarriors007/cyberwarriors007) | [![GitHub issues](https://img.shields.io/github/issues/cyberwarriors007/cyberwarriors007?color=green&logo=github&style=flat)](https://github.com/cyberwarriors007/cyberwarriors007/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr/cyberwarriors007/cyberwarriors007?style=flat&logo=github)](https://github.com/cyberwarriors007/cyberwarriors007/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/cyberwarriors007/cyberwarriors007?style=flat&color=critical&logo=github)](https://github.com/cyberwarriors007/cyberwarriors007/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/cyberwarriors007/cyberwarriors007?color=blue&logo=github&style=flat)](https://github.com/cyberwarriors007/cyberwarriors007/commits/) |
 
  <h2>GitHub Analytics
  </h2>
 
 <p align="center">
 <a href="https://github.com/itxfida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itxfida&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itxfida&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberwarriors007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyberwarriors007&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=itxfida&show_icons=true&locale=en&layout=demo&theme=algolia" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberwarriors007&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 </p>
 <br>
@@ -114,23 +113,23 @@
 
 ## 🚀Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/itxfida/itxfida/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/cyberwarriors007/cyberwarriors007/blob/main/github-metrics.svg" />
 </p>
 <br>
 
 ## 🐛Github Magic Game
 <p align="center">
-  <img src="https://github.com/itxfida/itxfida/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/cyberwarriors007/cyberwarriors007/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p>
-<a href="https://github.com/itxfida">
-  <img src="https://github-profile-trophy.vercel.app/?username=itxfida&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+<a href="https://github.com/cyberwarriors007">
+  <img src="https://github-profile-trophy.vercel.app/?username=cyberwarriors007&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 
 </a>
 </p>
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/itxfida/count.svg" />
+  <img src="https://profile-counter.glitch.me/cyberwarriors007/count.svg" />
 </p>
